@@ -102,16 +102,6 @@ export const Contact = () => {
                     <p className="text-lg font-medium">+92 320 5050974</p>
                   </div>
                 </div>
-
-                <div className="flex items-start gap-4">
-                  <div className="w-12 h-12 bg-brand-pink/10 rounded-2xl flex items-center justify-center text-brand-pink shrink-0">
-                    <MapPin className="w-6 h-6" />
-                  </div>
-                  <div>
-                    <p className="text-sm text-white/40 font-mono uppercase tracking-wider">Location</p>
-                    <p className="text-lg font-medium">Islamabad, Pakistan</p>
-                  </div>
-                </div>
               </div>
 
               <div className="mt-12">
