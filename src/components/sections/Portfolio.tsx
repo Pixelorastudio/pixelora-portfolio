@@ -58,12 +58,11 @@ const projects = [
     id: 6,
     title: 'Plumbing Service Website',
     category: 'Web App',
-    image: 'https://i.postimg.cc/3ry2NTwL/Screenshot-2026-04-15-120109.png',
+    image: 'https://i.postimg.cc/vHHmzKm2/image.png',
     description: 'A clean and conversion-driven website designed for a plumbing service business. This project focuses on simplicity, clear messaging, and strong call-to-actions to maximize lead generation.',
     fullDescription: 'A clean and conversion-driven website designed for a plumbing service business. This project focuses on simplicity, clear messaging, and strong call-to-actions to maximize lead generation. The layout is structured to guide users quickly toward contacting or booking services, with a responsive design that ensures seamless performance across all devices.',
     tech: ['HTML', 'CSS', 'Vercel'],
     link: 'https://plumbingwebsitedemo-zeta.vercel.app/',
-    github: 'https://github.com/Pixelorastudio/USA-Plumbing-Website',
   },
 ];
 
